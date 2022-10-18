@@ -1,0 +1,24 @@
+{
+  "name": "doulist-js",
+  "version": "1.0.0",
+  "description": "适用于动态、静态博客等个人平台展示Douban数据，纯前端实现。",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rebron1900/doulist-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rebron1900/doulist-js/issues"
+  },
+  "homepage": "https://github.com/rebron1900/doulist-js#readme",
+  "dependencies": {
+    "blueimp-tmpl": "^3.20.0",
+    "http-server": "^14.1.1",
+    "jquery": "^3.6.1"
+  }
+}
